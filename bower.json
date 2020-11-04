@@ -1,0 +1,23 @@
+{
+  "name": "Bootstrap",
+  "authors": [
+    "md-mannan <mdmannan580@gmail.com>"
+  ],
+  "description": "Practicing Bootstrab With Stack Learner",
+  "main": "NodeJs",
+  "keywords": [
+    "Bootstrap",
+    "NodeJs",
+    "Bower",
+    "Fontawesome"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "popper.js": "^2.5.4",
+    "fontawesome": "^5.15.1"
+  }
+}
